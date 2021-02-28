@@ -16,10 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/heyalok1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="heyalok1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alok-a23a9815b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/alok-a23a9815b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://meta.stackexchange.com/users/950712/alok-kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://meta.stackexchange.com/users/950712/alok-kumar" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@alok943" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="https://www.hackerearth.com/@alok943" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/alokasr42/todo-done/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/alokasr42/todo-done/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alok" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/alok-kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="alok-kumar" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/alok943" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="alok943" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/alokasr42" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="alokasr42" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
